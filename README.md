@@ -1,0 +1,2 @@
+# freshman
+My first repository
